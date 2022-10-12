@@ -35,7 +35,7 @@ While working in the textile industry for two years I learned how to work under 
 
 Upon finishing the course I realized I was still lacking logical training. That's when Henry stepped into my Career helping me to develop myself as a structured and succesfull professional. While attending the bootcamp I worked and became proficient with the following technologies: html | css | javascript | nodeJs, React js | redux | redux toolkit | Express | sequelize | github | postgresql | heidisql | mysql. 
 
-In Henry I acquired a more disciplined course of action. I built several projects such as a weather app, a pokemon application and, as a final group royect, a make up e commerce which also contained an admin page. 
+In Henry I acquired a more disciplined course of action. I built several projects such as a weather app, a pokemon application and, as a final group proyect, a make up e commerce which also contained an admin page. 
 I consider myself a passionate learner who is always eager to give his all in every project. I also recon myself as an active listener who is capable of properly communicating with any member of the team.
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
  <a href="https://www.linkedin.com/in/arturo-kaad%C3%BA-80220515b" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="35px" alt="linkedin"></a>
