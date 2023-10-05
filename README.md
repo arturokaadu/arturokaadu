@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, Hi everyone👽 </h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">Hi everyone👽 </h1>
 
 
 <h2  align="center"> My name is Arturo and I'm a fullstack software developer.</h2>
